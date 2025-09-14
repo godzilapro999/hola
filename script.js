@@ -4,5 +4,5 @@ const mensaje = document.getElementById("mensaje");
 
 //evento de click
 boton.addEventListener("click", function() {
-    mensaje.textContent = "puedes comprar una porcion de papas 🥺​";
+    mensaje.textContent = "si lees esto comprame el silksong";
 });
